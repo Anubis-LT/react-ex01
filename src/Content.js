@@ -6,7 +6,7 @@ const Content = () => {
       <>
          <div className="App">
             <Title name="Lorem" />
-            <Content
+            <Description
                text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
                 possimus animi ad dolorem provident fuga numquam itaque? Veritatis,
                 tenetur eligendi quibusdam sit, velit totam debitis at fugiat
@@ -14,7 +14,7 @@ const Content = () => {
             />
 
             <Title name="Ipsum" />
-            <Content
+            <Description
                Text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
                     possimus animi ad dolorem provident fuga numquam itaque? Veritatis,
                     tenetur eligendi quibusdam sit, velit totam debitis at fugiat
